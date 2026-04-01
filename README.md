@@ -11,3 +11,25 @@ Projeto simples desenvolvido para praticar lógica de programação.
 
 ## Tecnologias:
 - Python
+  
+# Sistema de Gerenciamento de Alunos
+
+Projeto simples em Python para gerenciamento de alunos e notas.
+
+## Funcionalidades
+
+- Adicionar alunos
+- Listar alunos
+- Buscar aluno
+- Remover aluno
+- Atualizar nota
+- Calcular média da turma
+- Mostrar maior e menor nota
+
+## Tecnologias
+
+- Python
+
+## Objetivo
+
+Projeto desenvolvido para prática de lógica de programação e estruturas de dados.
