@@ -58,3 +58,31 @@ python sistema_produtos.py
 📌 Observações
 
 Este projeto foi desenvolvido com foco em aprendizado e evolução na programação.
+
+
+🛒 Sistema de Mercado em Python
+
+Este é um sistema simples de gerenciamento de produtos feito em Python, rodando no terminal.
+
+🚀 Funcionalidades
+Adicionar produtos
+Listar produtos
+Buscar produtos
+Editar produtos
+Remover produtos
+Salvar e carregar dados em arquivo .txt
+🧠 Conceitos utilizados
+Listas e dicionários
+Funções
+Estruturas de repetição (while, for)
+Tratamento de erros (try/except)
+Manipulação de arquivos
+💾 Como usar
+Execute o arquivo .py
+Utilize o menu no terminal
+Os dados serão salvos automaticamente no arquivo produtos.txt
+📌 Observações
+
+Este projeto foi desenvolvido com foco em aprendizado e prática de lógica de programação.
+
+👨‍💻 Desenvolvido por [seu nome]
